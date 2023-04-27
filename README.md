@@ -1,6 +1,7 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg)](https://reazyydev.io)
 <h1 align="center">Hi 👋, I'm ReaZy</h1>
 <h3 align="center">A passionate developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src="[https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg)">
+<img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reazyydev&label=Profile%20views&color=0e75b6&style=flat" alt="reazyydev" /> </p>
 
