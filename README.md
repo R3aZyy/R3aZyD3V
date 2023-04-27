@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ReaZy</h1>
 <h3 align="center">A passionate developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazJoekVBOHJpZmpRODVybjc1eEZfaEQ5UERaQXxBQ3Jtc0trQ2djOWVISEs5UExBLTNGRk9nbDBoRy1DRzI2eTI1b0dCWkJkVjItWWoyUFRHaHo0MXRyTWxhbnlIZTFQTWpJZ2lUb1JDTEItYWFfUmxGb1NicFN4TWxaU0dXVjFCRUFMZkFLWjk2eFZsM3NLT0FVNA&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE">
+<img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reazyydev&label=Profile%20views&color=0e75b6&style=flat" alt="reazyydev" /> </p>
 
