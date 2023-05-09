@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ReaZy</h1>
 <h3 align="center">A passionate developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1059576059785383966/1101211043734245446/reazypp.gif">
+<img align="right" alt="Coding" width="400" src="https://discord.c99.nl/widget/theme-4/852869802670424065.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reazyydev&label=Profile%20views&color=0e75b6&style=flat" alt="reazyydev" /> </p>
 
