@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **reazydev@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **not a human being**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
